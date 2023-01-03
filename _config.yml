@@ -20,7 +20,7 @@ email: "scott.brady76@mail.dcu.ie"
 #########################################################################################
 theme: "minima"
 
-# rss: rss
+rss: rss
     
 plugins:
   - jekyll-feed
